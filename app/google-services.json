@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935740970552",
+    "project_id": "app-e-commerce-klain",
+    "storage_bucket": "app-e-commerce-klain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935740970552:android:98316089d356b7577a38cd",
+        "android_client_info": {
+          "package_name": "com.example.app_e_commerce_klain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935740970552-4i9fpol1r07kiqf6sj50sm1pc0f81jou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDecDXVpnw95nXfyD6mWUwM2GjttHTWzYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935740970552-4i9fpol1r07kiqf6sj50sm1pc0f81jou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
